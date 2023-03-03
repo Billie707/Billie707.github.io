@@ -1,0 +1,19 @@
+.body{
+    background-color: rgb(70, 207, 137);
+}
+.kotak{
+    background-color: rgb(18, 6, 244);
+}
+.bodi{
+    width: 280px;
+    color:#fff;
+    border: 1px solid #dedede;
+    padding: 100px;
+    margin: 50px 100px 50px 500px;
+    float: left;
+    background-color: #edeff3;
+    align-content: center;
+}
+.font{
+    font-style: normal : color : dark;
+}
